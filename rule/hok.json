@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "sgameglobal.com",
+        "honorofkings.com",
+        "hok5v5.com",
+        "intlgame.com",
+        "iegcom.com",
+        "proximabeta.com",
+        "levelinfinite.com",
+        "playerinfinite.com",
+        "vasdgame.com",
+        "anticheatexpert.com",
+        "singaporepaya.com",
+        "gcloudsdk.com",
+        "gcloudcs.com",
+        "hkgcloudcs.com",
+        "nagcloudcs.com",
+        "tencent-gcloud.com",
+        "igamecj.com",
+        "gcloud.qq.com",
+        "gvoice.qq.com",
+        "gvoiceplat.com",
+        "oalstv-inapps.appsflyersdk.com",
+        "oalstv-skadsdkless.appsflyersdk.com"
+      ]
+    }
+  ]
+}
